@@ -11,49 +11,63 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/mohamed-khalel1">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://medokalel.github.io/PersonalPortfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
-
 <a href="https://www.upwork.com/freelancers/~01473ffbb0f01f5dac">
-<img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white">
+  <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
 </a>
-
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-💻 Passionate **Front-End Developer**  
-🚀 Currently improving my skills in **HTML, CSS, Responsive Web Design**  
-🎯 My goal is to become a **Full Stack Developer**  
-🔐 Interested in **Cybersecurity** and secure web applications  
+<p>
+💻 Passionate <strong>Front-End Developer</strong>  
+🚀 Currently improving my skills in <strong>HTML, CSS, Responsive Web Design</strong>  
+🎯 Goal: become a <strong>Full Stack Developer</strong>  
+🔐 Interested in <strong>Cybersecurity</strong> and secure web applications  
 🧠 I enjoy solving problems and building real projects  
-📚 Always learning new technologies  
+📚 Always learning new technologies
+</p>
 
 ---
 
 ## 🧠 Soft Skills
 
-✔ Problem Solving  
+<p>
+✔ Problem Solving & Critical Thinking  
 ✔ Continuous Learning  
 ✔ Attention to Detail  
 ✔ Time Management  
-✔ Team Collaboration  
+✔ Team Collaboration
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,figma,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,figma,vscode"/>
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://medokalel.github.io/PersonalPortfolio/">
+  <img src="https://img.shields.io/badge/Personal%20Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://github.com/medokalel/weather-app">
+  <img src="https://img.shields.io/badge/Weather%20App-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Weather App"/>
+</a>
 
 </p>
 
@@ -64,7 +78,6 @@
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=medokalel&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medokalel&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -95,7 +108,7 @@
 
 <p align="center">
 
-<img src="https://hits.dwyl.com/medokalel/medokalel.svg?style=flat-square&theme=dark" alt="Profile Views">
+<img src="https://hits.dwyl.com/medokalel/medokalel.svg?style=flat-square&theme=dark" alt="Profile Views"/>
 
 </p>
 
@@ -113,4 +126,30 @@
 
 ## ⚡ Fun Fact
 
-I love turning ideas into real web applications and continuously improving my skills in web development 🚀
+I love turning ideas into **real web applications** and continuously improving my skills in web development 🚀
+
+---
+
+<style>
+/* Hover effects for badges */
+img[alt*="LinkedIn"]:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s;
+}
+img[alt*="Portfolio"]:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s;
+}
+img[alt*="Upwork"]:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s;
+}
+img[alt*="Weather App"]:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s;
+}
+img[alt*="Personal Portfolio"]:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s;
+}
+</style>
