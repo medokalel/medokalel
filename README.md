@@ -31,7 +31,7 @@
 ## 👨‍💻 About Me
 
 💻 Passionate **Front-End Developer**  
-🚀 Currently improving my skills in **HTML, CSS, Responsive Web Design**  
+🚀 Currently improving my skills in **React, JavaScript, TypeScript**  
 🎯 My goal is to become a **Full Stack Developer**  
 🔐 Interested in **Cybersecurity** and secure web applications  
 🧠 I enjoy solving problems and building real projects  
@@ -53,7 +53,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,figma,vscode,react,javascript,typescript"/>
 
 </p>
 
