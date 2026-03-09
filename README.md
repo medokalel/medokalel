@@ -53,7 +53,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,figma,vscode,react,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,vscode,git,github,figma"/>
 
 </p>
 
