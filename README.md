@@ -1,56 +1,65 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khalel</h1>
+
 <h3 align="center">Front-End Developer | Future Full Stack Developer</h3>
 
 <p align="center">
-Passionate about building clean, responsive, and user-friendly web interfaces.
-Currently focusing on improving my front-end development skills and working on real projects to grow as a developer.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;Future%20Full%20Stack%20Developer;Passionate%20about%20Web%20Development;Always%20Learning%20New%20Technologies&center=true&width=500&height=45">
 </p>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ---
 
-### 🚀 About Me
+# 🌐 Connect With Me
 
-- 💻 Front-End Developer passionate about web technologies  
-- 🌱 Currently improving my skills in **HTML, CSS, and Responsive Web Design**  
-- 🎯 My goal is to become a **Full Stack Developer**  
-- 🔐 Interested in **Cybersecurity** and secure web applications  
-- 📂 I enjoy building practical projects and improving them over time  
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/mohamed-khalel1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-### 🧠 Soft Skills
+<a href="https://medokalel.github.io/PersonalPortfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white">
+</a>
 
-- Problem Solving  
-- Continuous Learning  
-- Attention to Detail  
-- Time Management  
-- Team Collaboration  
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
+<a href="https://www.upwork.com/freelancers/~01473ffbb0f01f5dac">
+<img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white">
+</a>
 
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 👨‍💻 About Me
+
+💻 Passionate **Front-End Developer**  
+🚀 Currently improving my skills in **HTML, CSS, Responsive Web Design**  
+🎯 My goal is to become a **Full Stack Developer**  
+🔐 Interested in **Cybersecurity** and secure web applications  
+🧠 I enjoy solving problems and building real projects  
+📚 Always learning new technologies  
+
+---
+
+# 🧠 Soft Skills
+
+✔ Problem Solving  
+✔ Continuous Learning  
+✔ Attention to Detail  
+✔ Time Management  
+✔ Team Collaboration  
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,figma,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -62,6 +71,46 @@ Currently focusing on improving my front-end development skills and working on r
 
 ---
 
-### ⚡ Fun Fact
+# 🔥 GitHub Streak
 
-I enjoy turning ideas into real web projects and constantly learning new things in web development 🚀
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=medokalel&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=medokalel&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=medokalel&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+I love turning ideas into real web applications and continuously improving my skills in web development 🚀
