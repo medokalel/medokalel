@@ -8,7 +8,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -28,7 +28,7 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 💻 Passionate **Front-End Developer**  
 🚀 Currently improving my skills in **HTML, CSS, Responsive Web Design**  
@@ -39,7 +39,7 @@
 
 ---
 
-# 🧠 Soft Skills
+## 🧠 Soft Skills
 
 ✔ Problem Solving  
 ✔ Continuous Learning  
@@ -49,7 +49,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
 
@@ -74,12 +74,14 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=medokalel&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+## 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -89,17 +91,17 @@
 
 ---
 
-# 👀 Profile Views
+## 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=medokalel&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://hits.dwyl.com/medokalel/medokalel.svg?style=flat-square&theme=dark" alt="Profile Views">
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 
@@ -109,6 +111,6 @@
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
 I love turning ideas into real web applications and continuously improving my skills in web development 🚀
