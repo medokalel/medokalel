@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khalel</h1>
 
-<h3 align="center">Front-End Developer | Future Full Stack Developer</h3>
+<h3 align="center">React Front-End Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;Future%20Full%20Stack%20Developer;Passionate%20about%20Web%20Development;Always%20Learning%20New%20Technologies&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=React%20Front-End%20Developer;Building%20Scalable%20Web%20Applications;E-Commerce%20Projects;Always%20Learning%20New%20Technologies&center=true&width=500&height=45">
 </p>
 
 ---
@@ -20,8 +20,12 @@
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
 
-<a href="https://www.upwork.com/freelancers/~01473ffbb0f01f5dac">
-<img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white">
+<a href="https://mostaql.com/u/mohamedkhalel3">
+<img src="https://img.shields.io/badge/Mostaql-008000?style=for-the-badge">
+</a>
+
+<a href="https://khamsat.com/user/mohamedkhalel2">
+<img src="https://img.shields.io/badge/Khamsat-FF6600?style=for-the-badge">
 </a>
 
 </p>
@@ -30,12 +34,13 @@
 
 ## 👨‍💻 About Me
 
-💻 Passionate **Front-End Developer**  
-🚀 Currently improving my skills in **React, JavaScript, TypeScript**  
-🎯 My goal is to become a **Full Stack Developer**  
+💻 React **Front-End Developer** passionate about building scalable and responsive web applications  
+🚀 Experienced in **React, JavaScript (ES6+), and modern Front-End development**  
+🛒 Built a full-featured **E-Commerce application** with authentication, cart, and payment integration  
+🎯 Currently improving my skills to become a **Full Stack Developer**  
 🔐 Interested in **Cybersecurity** and secure web applications  
-🧠 I enjoy solving problems and building real projects  
-📚 Always learning new technologies  
+🧠 I enjoy solving problems and building real-world projects  
+📚 Always learning and exploring new technologies  
 
 ---
 
@@ -53,9 +58,20 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,vscode,git,github,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,bootstrap,git,github,vscode"/>
 
 </p>
+
+---
+
+## ⚡ What I Work With
+
+- React (Hooks, Context API)
+- REST APIs & Axios
+- State Management (Context API, React Query)
+- Authentication & Protected Routes
+- Form Handling (Formik & Yup)
+- Responsive Design & UI/UX
 
 ---
 
@@ -113,4 +129,4 @@
 
 ## ⚡ Fun Fact
 
-I love turning ideas into real web applications and continuously improving my skills in web development 🚀
+I enjoy building real-world applications like E-commerce platforms and constantly improving my development skills 🚀
