@@ -12,19 +12,19 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mohamed-khalel1">
+<a href="https://www.linkedin.com/in/mohamed-khalel1" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://medokalel.github.io/PersonalPortfolio/">
+<a href="https://medokalel.github.io/PersonalPortfolio/"  target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
 
-<a href="https://mostaql.com/u/mohamedkhalel3">
+<a href="https://mostaql.com/u/mohamedkhalel3"  target="_blank">
 <img src="https://img.shields.io/badge/Mostaql-008000?style=for-the-badge">
 </a>
 
-<a href="https://khamsat.com/user/mohamedkhalel2">
+<a href="https://khamsat.com/user/mohamedkhalel2"  target="_blank">
 <img src="https://img.shields.io/badge/Khamsat-FF6600?style=for-the-badge">
 </a>
 
