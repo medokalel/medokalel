@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://medokalel.github.io/PersonalPortfolio/"  target="_blank" rel="noopener noreferrer">
+<a href="https://clever-mermaid-3734dd.netlify.app/"  target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
 
