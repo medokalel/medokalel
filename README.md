@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-khalel1" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-khalil1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="https://medo-kalel-portfolio.vercel.app/" target="_blank">
